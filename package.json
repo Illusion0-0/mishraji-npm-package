@@ -1,0 +1,24 @@
+{
+  "name": "mishraji",
+  "version": "1.0.0",
+  "description": "What you see is written in a <p> tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Illusion0-0/mishraji-npm-package.git"
+  },
+  "keywords": [
+    "mishraji",
+    "codestein",
+    "mishraji-it-is"
+  ],
+  "author": "Codestein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Illusion0-0/mishraji-npm-package/issues"
+  },
+  "homepage": "https://github.com/Illusion0-0/mishraji-npm-package#readme"
+}
